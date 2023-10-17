@@ -11,7 +11,7 @@ body.dark {
     --bg-black-900: #151515;
     --bg-black-100: #22222;
     --bg-black-50: #393939;
-    --text-black-900: #ffffff;
+    --text-black-900: #f021b2;
     --text-black-700: #e9e9e9;
 }
 
@@ -641,6 +641,11 @@ h3.my-profession {
     text-align: center;
     font-size: 25px;
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .contact-sub-title {
